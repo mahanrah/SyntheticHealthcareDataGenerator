@@ -12,9 +12,19 @@ There were certain challenges encountered over the course of the project which o
 I would like to deeply thank Dr. Tin Lok James Ng, my project supervisor, for his unwavering support and invaluable direction throughout the course of project. I would also like to extend my gratitude towards the CDIG, in particular Dr. Eithne Nic an Ríogh, for her feedback and guidance, significantly aiding the design of the system. Thank you for reading this report, I sincerely hope you enjoy.
 
 INSTALLATION INSTRUCTIONS
-Download the server.R and ui.R files to your R working directory
+Download the server.R and ui.R files to the same folder in your R working directory
+Install the following packages: shiny, synthpop, anytime, dplyr, tidyr, ggplot2, gridExtra, corrplot, vcd
+Use RStudio to run the application by opening one of these files and clicking 'Run App' in the top right
+
+CREDITS
+Packages used: shiny, synthpop, anytime, dplyr, tidyr, ggplot2, gridExtra, corrplot, vcd
+Hosting service: ShinyApps (requires package 'rsconnect')
+Shiny: https://shiny.posit.co/
+synthpop: https://www.synthpop.org.uk/index.html
+ShinyApps: https://www.shinyapps.io/
+
+CONTACT INFO
+mahanrah@tcd.ie
 
 LINK TO WEB APPLICATION
 https://mahanrah.shinyapps.io/synthetic_data_generator_for_medicine_and_healthcare_data/ 
-
-![image](https://github.com/mahanrah/SyntheticHealthcareDataGenerator/assets/156537885/c22f0060-abbb-44d3-afb6-2db5a957c334)
