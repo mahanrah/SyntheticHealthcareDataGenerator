@@ -12,13 +12,13 @@ There were certain challenges encountered over the course of the project which o
 I would like to deeply thank Dr. Tin Lok James Ng, my project supervisor, for his unwavering support and invaluable direction throughout the course of project. I would also like to extend my gratitude towards the CDIG, in particular Dr. Eithne Nic an Ríogh, for her feedback and guidance, significantly aiding the design of the system. Thank you for reading this report, I sincerely hope you enjoy.
 
 INSTALLATION INSTRUCTIONS
-Download the server.R and ui.R files to the same folder in your R working directory
-Install the following packages: shiny, synthpop, anytime, dplyr, tidyr, ggplot2, gridExtra, corrplot, vcd
-Use RStudio to run the application by opening one of these files and clicking 'Run App' in the top right
+1. Download the server.R and ui.R files to the same folder in your R working directory.
+2. Install the following packages: shiny, synthpop, anytime, dplyr, tidyr, ggplot2, gridExtra, corrplot, vcd.
+3. Use RStudio to run the application by opening one of these files and clicking 'Run App' in the top right.
 
 CREDITS
-Packages used: shiny, synthpop, anytime, dplyr, tidyr, ggplot2, gridExtra, corrplot, vcd
-Hosting service: ShinyApps (requires package 'rsconnect')
+Packages used: shiny, synthpop, anytime, dplyr, tidyr, ggplot2, gridExtra, corrplot, vcd.
+Hosting service: ShinyApps (requires package 'rsconnect').
 Shiny: https://shiny.posit.co/
 synthpop: https://www.synthpop.org.uk/index.html
 ShinyApps: https://www.shinyapps.io/
